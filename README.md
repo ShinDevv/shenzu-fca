@@ -1,4 +1,4 @@
-# SHENZU-FCA (Modified ws3-fca)
+# SHENZU-FCA
 ---
 
 ## 🚀 Getting Started
